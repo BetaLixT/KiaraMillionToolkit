@@ -315,3 +315,180 @@ A few days later, I saw the [Karaoke Party] livestream and even though the sound
 Today I can‘t imagine how different things could have been, had I never watched, or decided to not give her a chance for technical difficulties or other reasons. I believe I would have regretted not knowing her or the KFP family. At this point I enjoy everything she does, for who she is and find joy in participating in events organised by the KFP family for celebrations, be it drawing, singing and talking. I didn't know I could enjoy this much. Probably a simple way to end up at this point, so let me end this simply for my Oshi  too.
 
 Viva la Kiara
+
+
+# Masterjonald
+
+When I fell into the rabbit hole of Hololive, it was hard to find a community to share all of my artwork. Especially with the styles that I make, pixel art and 8bit, a.k.a. retro style. So whenever I made a pixel art, I shared it with my friends that brought me to the Hololive experience.
+
+Then one day, my friend told me that there will be a new group called Hololive English. I watched all the debut streams and eventually fell into HoloEN. One day while we were speaking,  my friend asked "Hey! Why not share your pixel art and your 8-bit covers of hololive related things on twitter?"At the time, I didn’t think that anyone other than our small friend group would enjoy it as it wasn’t “cool”, but  he was like, "Just try it." And so I posted my 8bit covers of all HoloEN's Loading Screen BGM on twitter with my pixel art on it.
+
+ Fast forward to the first HoloEN Minecraft collab, after the GREAT TUNNELING stream, I decided to make a minecraft 3d art of it. It caught the attention of Kiara, who asked  "That is so cool, how do you do these things? They look so cinematic lmao ''. I replied that I used a program called Mine-imator, which really did everything I needed it to. Someone else commented that they used to watch 3D minecraft animations back in the day, and that gave me the idea to learn how to do that. Lo and behold, The “Kiara's Roommate” Animation was made, and I unlocked a new achievement/skill to make 3d animations.
+
+After releasing the Roommate Animation, someone commented that he was trying to reach out to me about a project that he was working on. So I contacted him and was told that he had seen my Kiara Loading BGM 8bit and he wanted me to join his project. I asked him for further details, decided to join, and here I am: An art director of Besto Friend Team for our upcoming game called Idol Showdown: A Hololive 2d Retro Fighting Fan Game.
+
+Without Kiara and HoloEN in general, maybe I would still be stuck in that phase of being too shy to share everything and wouldn’t have been discovered by the game developer of Idol Showdown. So Thank you Kiara and to all HoloEN.
+
+
+# Sly
+
+So my first contact with Hololive was the Azur Lane collab actually, although I don't remember what I thought about it at the time. Later, I found Lyger’s channel and started watching some Matsuri clips from there as well as a few other clippers as well and eventually got to know a lot of the members. But the only actual streams that I watched were Haachama relaxing minecraft ones, for example the one that she built the church for her wedding with Watame, cause she actually spoke a bit of english sometimes. My favorites before HoloEN would be Pekora, Marine, Hachama, Ayame and Watame.
+
+When the auditions for holoEN were announced, I thought “well good luck with that”, the magic of the vtubers is that they kept out of politics and are just there to entertain. The western side of the internet couldn't possibly do it. And then they were revealed, by design I was liking Ina and Gura, the others weren’t as eye-catching I would say. So I would give it a shot without expectations and see what happens.
+
+So Kiara, the first thing that caught my attention was the ease that she switched between japanese and english, then her excitement when Huke spoke in the chat, and then she mentioned that her favorite was Pekora. Well you had my curiosity, but now you have my attention. What a fangirl we have here. One of us! Also the anime and JRPGs  that she enjoys overlap a bit with mine so that helped.
+
+There wasn't an exact stream that set her as my favorite, it's just all of it together i would say, her karaoke high notes, her endless supply of energy, her interaction with the fans, she’s just an all around very fun and good human being that i can't help but want to keep cheering on. And just like that, I haven't missed a stream, and I'm always eager for more.
+
+Her ability to make such an engaging and fun stream  that nothing else matters at that moment is so important to me because I'm an overthinker so it really helps being able to keep my mind offline. And even more important,she’s so genuine, yes she’s playing a character  but she doesn't shy away from being real with us and letting some of her real feelings through.
+
+So much more I could write here but this is getting long.
+
+So yes, I’m a Kiara simp and I'm proud of it.I want to see this girl fulfil her dream.
+
+Now about you guys here at KFP, it's very nice seeing everyone getting along nicely, and I hope it continues like this for a very long while. It's so wholesome to see a group that just like me wants to see this beautiful Phoenix succeed in her endeavours.
+
+I do not talk much but I do appreciate you guys.
+
+VIVA LA KIARA!
+
+
+# Poem2self
+
+My journey started with having my brother, who I have a close relationship with, watching Hololive around April 2020. I had been aware of the existence of vtubers since Kizuna ai was a thing, but brushed it off as a stupid silly meme. He'd show me clips (like Haachama singing Shape of You) or annoying fans constantly requesting Jojo songs in karaoke but I never really looked into it myself.
+
+Fast forward to August 13th, 2020. Me and my brother were up in the middle of the night and he's watching Minato Aqua play Ocarina of Time, so I decided to tune in myself. And what I saw, was not only quite possibly the worst Zelda gameplay I have ever seen but also the funniest content ever in a way. It's hard to describe but it hit all the marks for me in terms of comedic value; cute girls doing things and making a fool of themselves.
+
+So I'm sitting here, wondering "Why am I enjoying this? Why is this so cute and funny to me? I love this!" and I was immediately hooked. It was crazy to me, because I used to hate streaming and streaming culture but this was a whole new thing to me. The very next day, I sent my first superchat ever to Aqua, telling her that her American fans loved her, because I sure as hell did.
+
+At this point I was only into Aqua and Watame, but my brother told me about the auditions for Hololive EN and how they would be debuting in less than a month. Unfortunately the only ones I could catch live were parts of Gura's and Watson's but I ended up watching the VOD of Calliope's debut. And I remember saying "Yep, Calliope is definitely going to be my favourite."
+
+I was proven wrong.
+
+I was able to catch Kiara Takanashi playing Fall Guys live, and was also very interested, however it never really struck me until later what interested me in her.
+
+It was the very next day, I think, a collab between Mori and Kiara. And Kiara just had this energy to her, that couldn't be replicated.(edited)
+
+Her personality and model were bouncy, she was hilarious, incredibly sweet, and her design was gorgeous and even moreso unique! I simply couldn't get enough of those two hats she wore and her colour scheme. She simply had it all, just like Aqua. This combined with her synergy with Mori immediately made her my favourite of all in Hololive.
+
+The great thing is, the bottom left energy isn't her only side. She's extremely friendly and just knows how to lighten a room and spark things in others, with or without being a cute klutz. She can be super down to Earth too, something which I don't see talked about as much.
+
+I've superchatted Aqua once, Mori once, however since then,  I've only superchatted to Kiara since then and multiple times. I joined her membership on the day it came out, played Mario Kart with her on stream, and tuned into countless streams especially the Fire Emblem ones as it is my favourite video game series.
+
+Her cover of A Cruel Angel's Thesis made me watch Neon Genesis Evangelion (yes, really)
+
+I've even connected with a friend through Kiara. This guy who was in a mutual server with me who we only bonded over Fire Emblem with a few times, had sent a superchat. "[Friend] Dankeschön!" Kiara joyfully said. I went straight to discord and asked if it was him, sure enough, Kiara is one of his favourites too.
+
+I could go on for hours about the positive influence Hololive and Kiara have positively impacted my life, but I think I've made my point clear. I've forged friendships, listened to amazing karaoke and have had tons of laughs with friends and family thanks to vtubers and I couldn't be more happy with them. Viva La Kiara!
+
+
+
+# Arty
+
+Initially, I fell down the rabbit hole around April with the Fukkireta video featuring all the girls at the time, with Roboco being my first subscription way back in late 2018 before I even knew what Hololive was!
+
+Surprisingly, when I saw the announcement for HoloMyth being an EN branch, I was a little apprehensive at the thought because I thought that it wouldn't be as appealing as the JP talents or that the fanbase for them would be more toxic than that of the prior girls. To be quite honest, I wasn't very interested in Kiara because when I first saw her all I could think of was a E-Girl putting on a fake personality with a voice that was kind of grating against my ears (please forgive me Tenchou), so I kind of skipped her content during the first week, but still subbed because I thought why not. After the first week or so, I wanted to give Kiara another chance and that is when she started growing on me quickly.
+
+I was kicking myself for not giving her much of a chance early on and decided to full on commit to watching all her streams when I am available so I could learn more about her. Discovering that she could speak three different languages was a surprise, her very endearing and genuine personality being able to make us both laugh and our hearts scrunch up whenever it gets a little too real makes her super relatable in the stories that she's told us, and how she just rolls with the chat now with her spot on the chart being chained to the bottom left forever.
+
+TAKAMORI also played a large part in the appeal of Kiara for me as well since I simped our boy, the Reaper apprentice, Calliope Mori as my first membership before I decided on Kiara. The way Kiara and Calli interact provide my brain with a copious amount of serotonin and fill my cold dead heart with the warm fuzzies. Maybe I need to be bonked for all the TAKAMORI content I retweet, but it feels very genuine to me that they can generate such a rapport and real feeling interactions. Kiara has proven to us already that she really cares for others and it is only reinforced since she organized a day for Calli to unwind and relax since she was such a hard-working reaper who could’ve worked herself to death if not for an intervention from Kiara.
+
+
+Thank you, Kiara, for all the work that you have done so far to build such a wonderful community in the KFP crew. It would have been a lot harder to pass the year without you, Holomyth and Hololive as a whole.
+
+
+As always, VIVA LA KIARA~
+
+
+
+# DogBoyStone
+
+I fell into the rabbit hole of hololive by coming across Minato Aqua on Instagram, I saw a post of her,  thought she was cute and followed the hashtag. I continuously saw posts with that hashtag but with different girls. After I did some research and found out about hololive, I saw some videos but the first stream I really saw was a Coco singing one. I didn’t watch a lot of hololive at the time about 2 months ago. Then some days after the news about Holo-En came out, I discovered it existed. I didn't watch the debuts and I really regretted it after I saw all the holoen girls. They were really cute but the one that got me was Takanashi Kiara: a super cute, goofy, funny, amazing, sweet, entertaining character. I liked and still like everything about Kiara; her knowledge about multiple languages was something that I liked a lot because it was something I had in common with her. I liked her stupendous design, her personality, the way she acts and how she treats so kindly people, but I also like her voice. That super cute voice where a lot of super kind and meant from the heart words come from. Kiara is the hololive member I watch the most and she'll always have a place in my heart. Viva La Kiara o7 my fellow KFP colleagues
+
+
+
+
+# Simpertonjenkins
+
+Simpjénkins KFP's Snack Cashier
+
+So how did I find Kiara and KFP you ask ? Well it’s a short but i think it's a good little story so sit back and enjoy.
+
+The first time I saw a Hololive Member was a (i think Fan made) Video from Fubuki where she plays the Kirby song  with all the different cuts and all. I laughed so hard at it that I think I watched it four times in a row. So after that Video a Friend of mine sent me the link to the video that Gigguk made and I watched it. Then he announced the HoloEN Debuts streams, which surprised me since I didn’t even know that EN was coming. But because of the Fubuki Video and Gigguk, YouTube thought that maybe I would be interested in the Gura Debut stream. And yeah, I liked it so much that for my first week, I watched Gura and the other girls Debuts streams. But when I got to Kiara’s Debut stream, it was a kinda different feeling. I felt an instant sympathy for her. I liked the way she talked, what she had for hobbies and what her goals were at the moment. And yes this sounds a little bit stupid but I saw that she had the lowest sub count from all of the Girls and I said to myself "I want to support this Underdog."  So I subscribed, watched a few Videos, and lurked in the Pre-Chat. When the Singing collab with Nene got announced, I was hyped cause I got to hear her for the first time Singing live. And as I heard her Singing Voice, I  was like "Dang I'm kind of feeling I’m falling down a hole....."
+
+
+ So yeah this is pretty much all of the story. Nothing special or something, just a Man who's enjoying the Voice of a Phoenix  and the Chaos she brings sometimes.
+
+
+
+# WildNexus
+
+Discovering Vtubers has been a bit of a journey for me. I first saw a Kizuna Ai video a few years ago but didn’t think much of it and moved on. A couple years later I saw a few more videos with vtubers (I don’t remember the names) but again moved on. It was not until this year that I really started paying attention. I discovered a few Western indie vtubers and that started me down the path. What officially brought me into the Hololive world was Korone and her Doom clips. Because of Doog I eventually found Coco and her meme reviews.  Even with my growing interest, I never engaged with the talents or the community. Some of it was due to the language barrier, but another reason was that no one around me was (and still isn’t) into vtubers.
+
+While I knew a little bit about the 5th gen, I really began to focus on Hololive once I heard about the debut of Hololive EN. I was working during the debut streams but I went back and watched all of them. Calli completely caught me with her amazing raps and general awkwardness, Ina with her drawings and  calmness, Gura with her cuteness, singing, and the meme, Ame with her weird concoction and gremlin vibe, and last was Kiara. Kiara did pique my interest a little due to her being able to speak multiple languages, her infectious Pekora-inspired laugh, and Steins:Gate design (seriously though why does she have sleeves?). Kiara is now my favorite vtuber, but if I’m honest, she didn’t really catch me in the same way the others did; at least initially.
+
+I did watch her streams, but I was more of a passive viewer. I’d open the stream as something to play in the background during work. I enjoyed the karaoke stream and FallGuys stream, but what turned me around was her first SC reading stream. Seeing how she interacted with her fans and how much of an open person she was/is pulled me in. Even when she was at a low point, it was so genuine that it really resonated with me. I understand that feeling and still struggle with those same doubts. But seeing Kiara still push forward and how her fans returned the support 1000x over was/is amazing. Not out of pity, but out of love and wanting this phoenix to succeed. I felt that, for the first time in a long time, I wanted to openly and actively support a creator. I started to participate in prechat a bit more and engage with the community a little more. Everyone’s welcoming and kind attitudes were really reflective of the kind of place Kiara wanted to make. Watching Kiara stumble, get back up, grow, and succeed thus far has been an experience I have never had in an internet community before. She has earned the adoration of her fans and rightly deserves all the love and support. I’m so proud of how far she’s come and how far she can still go.
+
+One last thing. I know it's sappy but she has inspired me to keep pushing and try things I would have been too shy or not confident to do before. To keep pushing and do things I’m proud of regardless of how others see it. Even if I fail and stumble, I know I can rise up just like our lovely Phoenix.
+
+
+# Deemo Harlos
+
+The Rabbit Hole - My journey to KFP
+
+Hi everyone, I’m Deemo Harlos, a KFP pianist. I want to share my story of how I started to follow HoloLive EN and eventually become deeply connected with KFP.
+
+I first heard about vTubers in the beginning of the year. It did not attract my attention much, since I am neither a fan of game streaming, nor do I understand Japanese well. It was not until a week or two ago when my Facebook was filled with posts about Hololive EN and so that I noticed them. The first thing really caught my eye while searching for more details is Calliope’s Rap “失礼しますが、RIP♡”, which really amazed me with the fluent mix of two languages and the fact that how talented vTubers can be.
+
+And that’s when I slipped into the rabbit hole. Soon later I found myself scrolling through YouTube everyday looking for vTuber clips, especially those of Hololive EN, which are in a language I am familiar with. At first I claimed not to be a DD too soon, but soon after I decided to subscribe to all the five members: Kiara, Calliope, Ina, Gura and Watson.
+
+Let’s make things clear: I do not like them just because they are cute anime girls or something. Each of them had some characteristics that attracted me a lot. In some streams they each told some story about how they became what they are now, and also some life perspectives and lessons. To me, they are not just moving characters on the screen. There are souls in them that give me positive energy. I also respect them for their effort to become what they are to give happiness and love to everyone, and so I look to them.
+
+Soon my daily routine became more chaotic than it was. Many nights I do not sleep at all, just to watch their streams. I can’t help but think Hololive EN just gave me too much happiness I wasn't able to get before.
+
+Kiara Fried Phoenix
+
+At one of Kiara’s streams someone said that there are servers for each member. As a Discord “experienced” user I quickly joined in every one of them. KFP is the most active of all, and I hopped into the voice chat filled with people. It has already been a couple of years since I moved my life focus from reality to the Internet, but getting into a foreign based server is completely a different experience, with a new group of people that have never known anything about myself.
+
+Everyone that I have met in KFP is very friendly and kind to me, which was way more than I had expected. I managed to play piano in the voice chat, and I am very happy to receive many compliments and encouragement, which I did not actually get much before. Also we get to listen to other musicians in KFP, and listening to their performances is a wonderful experience. We also chatted about stuff, helped out someone with relationship problems, and even watched a movie together. In merely four days I have been through so much fun with the new friends. I never wanted to leave the voice chat, and therefore my daily routine has become even MORE chaotic.
+
+Some of my story
+
+I first learned keyboard and basic music theory when I was 7. But after four years or so I stopped learning. It was 15 when I started on the piano, self-taught. And the biggest motivation was this game, Deemo, a wonderful rhythm game. I really liked the music from Deemo, so I looked for free music sheets and tried to practice on my own. In my high school times I joined a wind band as a new learner in percussion, and as my interest in music gradually grew I learned many music theories and composing/arranging techniques.
+
+At university I started to listen to many amazing music YouTubers such as SLSMusic, Animenz, phyxinon, and so on. Gradually the thought of playing piano through the Internet and influencing people with music became one of my life goals.
+
+
+The truth is that I am neither a confident nor a positive person. I only consider my piano playing decent. Decent yet not enough to stand out from the crowd. I make many mistakes and lack improvising techniques, compared with the music YouTuber I look up to. I know I need time to practice, but thanks to the mental issues and the schoolwork I can barely squeeze time out. I have hard times living my life and spending most of the day dealing with my own emotions. I did see a doctor and take medicine, though I still have to go through the self-hating phasis every day. This feeling gets even worse whenever I see other people shining in their own career, field or talent, especially music, like those in KFP. Many people told me that I do not have to hurry, and that I can walk at my own pace. So many people and things that always remind me that I am walking slower than any other people, and I just can’t get away with it and tell myself it is okay that I do nothing to improve now.
+
+Somebody mentioned something like Holofried or Hololive EN Gen 2. I, of course, clearly knew that I do not have a cute looking or voice. Though that thought of becoming a vTuber indeed went through my mind for a second. But no way. I do not have that kind of personality. Plus, my English speaking kind of sucks. Nevertheless, to some extent I do want to excel myself to the same level as Kiara, all the other Hololive EN members, the music youTubers, and such. I really want to improve myself so that someday I could be at the same level as theirs, and collaborate or cooperate with them in terms of my talents and skills.
+
+Thanks
+
+To Kiara
+
+I know you might not read this, since this is not a superchat anyways. I’ve watched many VODs and clips of yours, so I know many moments that you give inspirational speeches, share life perspectives and talk about your internal feelings. I love how genuine and sincere you are, just like a close friend. Whenever I listen to you talking about how you fight hard to become what you are and that the hard work has finally paid off, I always feel happy for you and want to cry with you. I’ve always wanted to be someone like you, who gives warmth and happiness to others. The difference is just that I wish to do so in terms of music, and that I haven’t succeeded yet.
+
+Though it has only been a couple of weeks since I know you, you have become one of my biggest motivations for doing what I love, and most importantly, living on, just like how Pekora Senpai meant to you.
+
+If you were just a friend of mine I would have just fallen in love (laughs). You have been fighting so hard. Please keep on but also take care as well. It is always okay to rest for a bit.
+
+I love you, Kiara.
+
+To NaGeL
+
+You are the first one that got to me when I was a little broken down then. You are also the first one that donated to me. Thanks a million!
+
+To Akel
+
+Thanks for your drawing! I really love it, though I wish there would be coloring (laughs). Also thanks for supporting my piano playing.
+
+To Nonono / Clan / Egguca and other talented musicians
+
+I really enjoyed your performance. I hope we can collab some day!
+
+To All KFP members
+
+I really have to thank you all for supporting me and encouraging me to play the piano. You guys have been the new spiritual support for me, and KFP has become a new home on the Internet for me. Thank you all. I love you guys.
+
+The journey has just started. Viva la Kiara! Viva la KFP!
