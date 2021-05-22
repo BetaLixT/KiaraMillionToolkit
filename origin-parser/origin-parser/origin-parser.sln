@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "origin-parser", "origin-parser\origin-parser.csproj", "{1D8CCDAC-381B-4804-AE15-B8A7F00A9BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D8CCDAC-381B-4804-AE15-B8A7F00A9BDE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1D8CCDAC-381B-4804-AE15-B8A7F00A9BDE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1D8CCDAC-381B-4804-AE15-B8A7F00A9BDE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1D8CCDAC-381B-4804-AE15-B8A7F00A9BDE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332F88AC-B1E5-4662-B46C-4CC2272ADA7F}
+	EndGlobalSection
+EndGlobal
