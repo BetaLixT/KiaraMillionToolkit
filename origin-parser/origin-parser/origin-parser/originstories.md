@@ -809,53 +809,27 @@ Thank you for bringing sunshine and happiness to my life. I will continue suppor
 
 
 
-# DOMINIK K
 
-
-I first discovered Hololive in April of 2020 and watched a few streams to improve my japanese a little bit. I’ve been an anime fan for over a decade now, so it was a nice gimmick to see streamers with anime avatars being able to reach out and resonate with their fans.
-
-That fascination didn’t hold for long, the language barrier being the biggest problem and so I thought: I just am not interested in vTubers
-
-
+# Dominik K
+I first discovered Hololive in April of 2020 and watched a few streams to improve my japanese a little bit. I’ve been an anime fan for over a decade now, so it was a nice gimmick to see streamers with anime avatars being able to reach out and resonate with their fans. That fascination didn’t hold for long, the language barrier being the biggest problem and so I thought:
+I just am not interested in vTubers
 When Hololive EN debuted I followed everyone’s debuts and watched a few streams and you are all truly amazing in your own regards! I just watched a few of the streams and the early collab ones pretty passively. My free time was short and so I thought:
 I just am not interested in vTubers.
-
-
 That changed when I saw the 300k clip with the 4th stage cancer SC. I’ve seen many facets of Takanashi Kiara, but that was the first time I saw her be that concerned and handling such a tough situation with a heartfelt response. And seeing someone with a big heart, struggling and doing her very best resonated with me a lot!
 So I rewatched all the streams I missed and started following her from there on. I began to think: Maybe these vTubers is worth a shot!
-
-
-And because I liked the JRPGs Kiara streamed, I tried watching her live more often. And I was just amazed by how friendly and supportive the people in chat before and after the stream were! I got in contact with some very great people and even greater chickens.
-
-If not for them I wouldn’t have stuck around for so long, because I thought:
+And because I liked the JRPGs Kiara streamed, I tried watching her live more often. And I was just amazed by how friendly and supportive the people in chat before and after the stream were! I got in contact with some very great people and even greater chickens. If not for them I wouldn’t have stuck around for so long, because I thought:
 Maybe this KFP community is worth a shot!
-
-
 I’ve seen a few streams and the months went on. Times in JRPG streams when chat died down and a message or two got reacted to by Tenchou were very fun! And I was glad that Tenchou could sometimes pretty openly share her feelings and even react to our feedback: That was something unexpected. And everyone was very supportive. So I thought:
-
 This community really is a great place to be in!
-
-
-And then came the Hololive 2nd fes watchalong. And I saw the amazing energy of Kiara Takanashi, fan-girl par excellence. Even without a ticket I just had to cheer alongside her. And that moment never faded away. That may be hard to understand, but I even bought a ticket afterwards and had the concert of a lifetime.  It was the same experience for bloom later on. And I thought: I want to cheer Kiara on like she cheered for her fellow members!
-
-
-After that moment I made my first twitter account, and was surprised by the amazing atmosphere. Our Tenchou’s ability to entertain us even on twitter and interact with us, and the support from Twitter KFP was great! And there are other places for fans to gather too
-
-So many people gathered and did their very best for this community.
-
-So I wanted to give it my very best too!
-
-
+And then came the Hololive 2nd fes watchalong. And I saw the amazing energy of Kiara Takanashi, fan-girl par excellence. Even without a ticket I just had to cheer alongside her. And that moment never faded away. That may be hard to understand, but I even bought a ticket afterwards and had the concert of a lifetime.  It was the same experience for bloom later on. And I thought:
+I want to cheer Kiara on like she cheered for her fellow members!
+After that moment I made my first twitter account, and was surprised by the amazing atmosphere. Our Tenchou’s ability to entertain us even on twitter and interact with us, and the support from Twitter KFP was great! And there are other places for fans to gather too. So many people gathered and did their very best for this community. So I wanted to give it my very best too!
 Now after 8 months I still find new and interesting people to talk to and we will even be able to see a small wish of Kiara fulfilled: Her entrance at the first international digital convention DigiKomi is something she wished for in November of last year.  
-
-And I’m looking forward to many milestones. Numbers aren’t important, except those on the bank account, but the memories and emotions I shared with you all will be here for my life!
-I cried for hours after a certain collab concert, was cheering on and discussing many things with all kinds of fans. And I really, really appreciate Kiara being open and connecting with us!
-That’s something I hope won’t change. I hate putting people on a pedestal, and I think:
-Kiara is a splendid entertainer, idol when on stage and
-a great fangirl and super supportive and considerate person!
-
+And I’m looking forward to many milestones. Numbers aren’t important, except those on the bank account, but the memories and emotions I shared with you all will be here for my life! I cried for hours after a certain collab concert, was cheering on and discussing many things with all kinds of fans. And I really, really appreciate Kiara being open and connecting with us!
+That’s something I hope won’t change. I hate putting people on a pedestal, and I think: Kiara is a splendid entertainer, idol when on stage and a great fangirl and super supportive and considerate person!
 I wish her only the best! As I wish for all the fellow KFP members reading this.
 Love you all (platonically)!
+
 
 
 
