@@ -973,3 +973,26 @@ How did I find you, Tenchou? Well, Back in 2020 before Hololive EN debuted, I wa
 
 
 How did I join the fanbase and wanted to support you? Well, KFP is the first online community I’ve ever joined. At first I was just interacting with people in your stream Pre-Chats. Everyone was so welcoming and it was so impressive to see a wholesome community like this especially on the internet. I made a lot of good friends in Pre-Chat and they eventually gave me the idea of becoming The Chair-Kun of KFP and make it my KFP job and title. Later I joined multiple KFP Discords and made new friends! You created and gave us this family, you changed a lot of people’s lives and made our days better and brighter with your streams! So that’s why I wanted to give something back to you by supporting you in every way I can and for as long as I can, even if it was little. That’s also why I logged in to my Twitter account back then after 4 years of being unused just to support you there, and that also opened the doors for me to be able to interact with you and the KFP family even more as well! Thank you Tenchou! And Congratulations on 1 million subs! As long as you're here, then I promise that I’ll try my best to continue supporting & working for you as the Chair-Kun of KFP. o7
+
+# Leficios
+
+Heya! I believe I’ve talked about my origins before in a Christmas letter to Tenchou, so I’ll try to talk about stuff I haven’t said, and keep it brief while I’m at it :p
+
+First would be how I discovered HoloEN. I found out about them through a friend who had introduced me to the Japanese hololive members. When he first told me about it, my initial reaction was “Bro, that’s cringe lol.” 2 weeks laters, after test week ended, I returned to him with a changed mindset and said “Actually, they aren’t that bad.” 草
+
+I started off with mostly clips and watched a few archives of Ame and Ina. However, I wasn’t able to catch any streams live due to time zones, and I wasn’t that interested in other members just yet. That was until YouTube randomly recommended one of Tenchou’s streams to me. The stream in question was the Minecraft stream where she was in the process of building the first KFP building. I didn’t really understand what was going on, or what the terminology used was, but I was still immensely happy when she read one of my normal chats. (It was just a response saying how to craft carpets, which wasn’t even used because she just used the auto craft ww)
+
+
+I’ve already mentioned before what the reason why I continued to support her is, with it just boiling down to Tenchou reading my chats a couple streams in a row (Minecraft, Sakuna, First 8 hour FE stream), and liking a few of my tweets :p
+
+Basically, I started really wanting to support Kiara because of her incredible connection with us viewers and the interaction she has with us, and that’s a big reason why I will continue to! Don’t get me wrong through, her amazing personality was and is a major reason as well. After all, I wouldn’t have stayed for a whole 8 hour stream in my first week of watching if I didn’t enjoy her personality yeah?
+
+About the reason why I make memes, it started mostly due to the time Tenchou got deleted off YouTube and the subsequent meme contest. I made my first meme which got a couple thousand upvotes on reddit (Just shy of 6.9k sigh) and I realised that not only did I enjoy making them, but I could also contribute to the community by making everyone, including her, laugh! Although I don’t have the time or energy to consistently make memes as of now, I promise that once my school break rolls around, I’ll be making memes for every stream :p
+
+And that’s pretty much it. I’m just an average high school student who was drawn in by Tenchou’s fun, bright and bubbly personality, as well as her dedication to fans, and have stayed, and will continue to stay for as long as I can. To Kiara: I promise to keep supporting you in the future, no matter what happens mama! o7
+
+# Buffaloman
+
+I had already been in the Vtuber rabbit hole for some time before HoloEN's debut. After they all debuted, I started watching all of them as much as I could. I absolutely loved Kiara's interactions with everyone and as a result I started live translating in her streams, I came to like her content more, especially the superchat readings, her interactions with chat and talk streams.
+Congratulatory message:
+Congratulations on the 1 million Kiara! Thank you for bringing us joy everyday with your streams, for letting us know the JP talents better with HoloTalk and for your lovely interactions with each and every one of the KFP members. ¡Viva la Kiara!
