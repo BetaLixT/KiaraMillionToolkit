@@ -272,19 +272,19 @@
         "message": "Congratulations on 1 Million!",
         "artist": "FRS"
     },
-    {
-        "src": "/canvasImages/魚中之魚.JPG",
-        "width": 1.0,
-        "height": 1.0,
-        "left": 582.0,
-        "top": 3254.0,
-        "angle": 0.0,
-        "opacity": 1.0,
-        "scaleX": 0.5,
-        "scaleY": 0.5,
-        "message": "Thank you for bringing us so much joy and sunshine,  congratulations on your 1M subscription!",
-        "artist": "魚中之魚"
-    },
+  {
+    "src": "/canvasImages/jjaaddeenicole.jpg",
+    "width": 1.0,
+    "height": 1.0,
+    "left": 582.0,
+    "top": 3254.0,
+    "angle": 0.0,
+    "opacity": 1.0,
+    "scaleX": 0.5,
+    "scaleY": 0.5,
+    "message": "Thank you for bringing us so much joy and sunshine,  congratulations on your 1M subscription!",
+    "artist": "魚中之魚"
+  },
     {
         "src": "/canvasImages/SwanFlyer.jpg",
         "width": 1.0,
