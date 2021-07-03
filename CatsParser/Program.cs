@@ -12,7 +12,7 @@ namespace CatsParser
     {
         const string NameLineRegex = @"\b(Name: [\w ]*)\b";
         const string CatLineRegex = @"\b(Cat[0-9]?: [\w ]*)\b";
-        const string CatsKeyRegex = @"\b(Cat[0-9]?:[ ]?)\b";
+        const string CatsKeyRegex = @"\b(Cat[ ]*[0-9]?:[ ]?)\b";
         const string MessageKey = "Message:";
         const string ProcessedImagesFolder = "images-processed";
         static async Task Main(string[] args)
@@ -28,7 +28,13 @@ namespace CatsParser
             var processingTasks = new List<Task>();
             foreach(var image in imagesOriginal)
             {
+                if (processingTasks.Count > 10)
+                {
+                    var index = Task.WaitAny(processingTasks.ToArray());
+                    processingTasks.RemoveAt(index);
+                }
                 var fileName = $"{ProcessedImagesFolder}/{image.Split("/").Last().Split(".").First()}";
+                Console.WriteLine(image);
 
                 // - Creating webp
                 var webpProcess = new System.Diagnostics.Process();

@@ -27,7 +27,7 @@ namespace KiaraBirthdayMessageParser
                 }
                 else
                 {
-                    messages[messages.IndexOf(message)].message = string.IsNullOrWhiteSpace(response.Message) ? response.MessageJp : response.Message;
+                    // messages[messages.IndexOf(message)].message = string.IsNullOrWhiteSpace(response.Message) ? response.MessageJp : response.Message;
                 }
             }
 
