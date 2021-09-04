@@ -32,11 +32,39 @@ namespace KiaraBirthdayMessageParser
                     messages[messages.IndexOf(message)].message = response.Message;
                 }
             }
+
+            var ProcessedImagesFolder = "images";
             foreach (var message in messages)
             {
-                if (string.IsNullOrEmpty(message.src))
+                if (!string.IsNullOrEmpty(message.src))
                 {
-                    
+                    var imageName = message.src.Split("/").Last().Split(".").First();
+                    if(!(System.IO.File.Exists($"{ProcessedImagesFolder}/{imageName}.jpg") && System.IO.File.Exists($"{ProcessedImagesFolder}/{imageName}.webp")))
+                    {
+                        var rawImage = System.IO.Directory.GetFiles("images-raw/", $"{imageName}.*").FirstOrDefault();
+                        if(!string.IsNullOrEmpty(rawImage))
+                        {
+                            Console.WriteLine(rawImage);
+                            var fileName = $"{ProcessedImagesFolder}/{imageName}";
+
+                            // - Creating webp
+                            var webpProcess = new System.Diagnostics.Process();
+                            webpProcess.StartInfo.FileName = "cwebp";
+                            webpProcess.StartInfo.Arguments = $"{rawImage} -o {fileName}.webp";
+                            webpProcess.Start();
+                            webpProcess.WaitForExit();
+
+                            // - Creating jpg
+                            var jpgProcess = new System.Diagnostics.Process();
+                            jpgProcess.StartInfo.FileName = "convert";
+                            jpgProcess.StartInfo.Arguments = $"{rawImage} {fileName}.jpg";
+                            jpgProcess.Start();
+                            jpgProcess.WaitForExit();
+
+                            var remainingImageData = Image.FromFile($"{fileName}.jpg");
+                            message.height = (float)remainingImageData.Height / (float)remainingImageData.Width;
+                        }
+                    }
                 }
             }
 
